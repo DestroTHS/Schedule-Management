@@ -2,7 +2,7 @@
 Chapter3-일정관리 앱
 <br>   
 
-## 👩🏻‍ API 명세
+##  API 명세
 ### 일정 API
  기능           | Method | URL                     | Request  | Response | 상태코드      
 |--------------|--------|-------------------------|----------|----------|-----------|
@@ -23,6 +23,6 @@ Chapter3-일정관리 앱
 | 선택 사용자 수정 | PATCH    | /users/{userId} | 요청 body  | 수정 정보    | 200: 정상수정 |
 | 선택 사용자 삭제   | DELETE    | /users/{userId} | -        | -        | 200: 정상삭제 |
 
-## 👩 ERD
+## ERD
 <img width="642" alt="Image" src="https://github.com/user-attachments/assets/d73d8de9-918b-41b3-9905-32a0d0f67667" />
 
