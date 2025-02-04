@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/69462af3-a3be-4498-a5fd-0593cbd439c6)# Schedule-Management
 Chapter3-일정관리 앱
 <br>   
 
@@ -24,6 +23,5 @@ Chapter3-일정관리 앱
 | 선택 사용자 삭제   | DELETE    | /users/{userId} | -        | -        | 200: 정상삭제 |
 
 ## ERD
-<img width="642" alt="Image" src="![image](https://github.com/user-attachments/assets/14c9c57b-4615-4228-9dd1-fb3cad59dd37)"
- />
+![image](https://github.com/user-attachments/assets/69462af3-a3be-4498-a5fd-0593cbd439c6)# Schedule-Management
 
