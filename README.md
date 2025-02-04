@@ -14,7 +14,7 @@ Chapter3-일정관리 앱
 | 선택 일정 삭제     | DELETE | /schedules/{scheduleId} | 요청 body  | -        | 200: 정상삭제 |
 
 
-### 사용자(작성자) API
+### 작성자 API
  기능        | Method | URL               | Request  | Response | 상태코드      
 |-----------|--------|-------------------|----------|----------|-----------|
 | 사용자 생성    | POST   | /users            | 요청 body  | 등록 정보    | 201: 정상등록 |
